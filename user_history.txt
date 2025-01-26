@@ -1,0 +1,32 @@
+1 history
+2 sudo apt list | grep i python3.10
+3 sudo apt-get install lynx
+4 lynx https://www.python.org/downloads/source
+5 
+6 wget https://www.python.org/ftp/python/3. 10.16/Python 3.10.16.tgz
+B tar -xf Python-3.10.16.tar
+9 tar xf Python-3.10.16.tgz
+10 ls
+11 wget openssl.org/source/openssl-1.1.1t.tar.gz
+12 gzip openssl-1.1.1t.tar.gz
+13 tar -xf openssl-1.1.1t.tar
+14 cd Python 3.10.16
+15 python3 -V
+16 python3-V
+17 ./configure
+18 make -j10
+19 make install-j10
+20 python3 -V
+21 python3.10 -V
+22 python3.10 -V
+23 python3.10 --version
+24 sudo python3.10 -n ensurepip upgrade
+25 sudu python3.12 ensurepip -upgrade
+26 python3.12 -V
+27 source my_enV/bin/activate
+28 pip install U pip setuptools wheel
+29 pip install label-studio
+30 label-studio
+31 pip install distutils
+32 label-studio
+33 history user history.txt
