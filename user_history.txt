@@ -2,7 +2,7 @@
 2 sudo apt list | grep i python3.10
 3 sudo apt-get install lynx
 4 lynx https://www.python.org/downloads/source
-5 
+5 Q
 6 wget https://www.python.org/ftp/python/3. 10.16/Python 3.10.16.tgz
 B tar -xf Python-3.10.16.tar
 9 tar xf Python-3.10.16.tgz
