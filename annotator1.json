@@ -1,0 +1,4102 @@
+[
+  {
+    "text": "आतंक के नए नाम हैं- द रजिस्टेंस फ्रंट यानी TRF और यूनाइटेड लिबरेशन फ्रंट यानी ULF।",
+    "id": 1,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "आतंक ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "नए ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "नाम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "- ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "द ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "text": "रजिस्टेंस ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "text": "फ्रंट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "यानी ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "TRF",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 59,
+        "text": "यूनाइटेड ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "text": "लिबरेशन ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 73,
+        "text": "फ्रंट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 78,
+        "text": "यानी ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "text": "ULF",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2025-01-25T16:25:14.358213Z",
+    "updated_at": "2025-01-25T16:25:14.358213Z",
+    "lead_time": 539.973
+  },
+  {
+    "text": "महिला से सबूतों के साथ मिली लिखित शिकायत के बाद बांसवाड़ा SP राजेश कुमार मीणा ने ASI अरविंद पाटीदार को सस्पेंड कर दिया है।",
+    "id": 2,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "महिला ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "text": "सबूतों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "text": "साथ ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "text": "मिली ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "लिखित ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "text": "शिकायत ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "बाद ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 57,
+        "text": "बांसवाड़ा ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "SP ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "text": "राजेश ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "text": "कुमार ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 77,
+        "text": "मीणा ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "text": "ASI ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 91,
+        "text": "अरविंद ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 99,
+        "text": "पाटीदार ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 102,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 110,
+        "text": "सस्पेंड ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 113,
+        "text": "कर ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 118,
+        "text": "दिया ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 120,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2025-01-25T16:28:28.778569Z",
+    "updated_at": "2025-01-25T16:28:28.778569Z",
+    "lead_time": 179.974
+  },
+  {
+    "text": "SP के आदेश पर ही कुशलगढ़ थाना पुलिस ने आरोपी के खिलाफ FIR भी दर्ज की है।",
+    "id": 3,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "SP ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "text": "आदेश ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "ही ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "text": "कुशलगढ़ ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "text": "थाना ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "text": "पुलिस ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "text": "आरोपी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "text": "खिलाफ ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "text": "FIR ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "भी ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 65,
+        "text": "दर्ज ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 68,
+        "text": "की ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2025-01-25T16:31:03.693719Z",
+    "updated_at": "2025-01-25T16:31:03.693719Z",
+    "lead_time": 150.478
+  },
+  {
+    "text": "पहला मुकाबला चेन्नई सुपर किंग्स (CSK) और कोलकाता नाइट राइडर्स (KKR) के बीच मुंबई के वानखेड़े स्टेडियम में खेला जाएगा।",
+    "id": 4,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "पहला ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 13,
+        "text": "मुकाबला ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "text": "चेन्नई ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "सुपर ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "text": "किंग्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "CSK",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 38,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "text": "कोलकाता ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "text": "नाइट ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 62,
+        "text": "राइडर्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 66,
+        "text": "KKR",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 68,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 75,
+        "text": "बीच ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 81,
+        "text": "मुंबई ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 93,
+        "text": "वानखेड़े ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 102,
+        "text": "स्टेडियम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 111,
+        "text": "खेला ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 116,
+        "text": "जाएगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 117,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2025-01-25T16:32:57.642199Z",
+    "updated_at": "2025-01-25T16:32:57.642199Z",
+    "lead_time": 111.161
+  },
+  {
+    "text": "नए नियमों के मुताबिक, जिन लोगों ने ITR फाइल नहीं किया है, उन पर टैक्स कलेक्शन ऐट सोर्स (TCS) भी ज्यादा लगेगा।",
+    "id": 5,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "नए",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 10,
+        "text": "नियमों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "text": "मुताबिक",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "जिन ",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "text": "लोगों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "text": "ITR ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "text": "फाइल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 49,
+        "text": "नहीं ",
+        "labels": [
+          "PART_NEG"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "text": "किया ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "उन ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 64,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 70,
+        "text": "टैक्स ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 78,
+        "text": "कलेक्शन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 80,
+        "text": "ऐट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 87,
+        "text": "सोर्स ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 91,
+        "text": "TCS",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 93,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 96,
+        "text": "भी ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 103,
+        "text": "ज्यादा ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 108,
+        "text": "लगेगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2025-01-25T16:41:57.483045Z",
+    "updated_at": "2025-01-25T16:41:57.484049Z",
+    "lead_time": 481.294
+  },
+  {
+    "text": "दुनियाभर में बढ़ती T-20 लीग क्रिकेट की लोकप्रियता के बीच UAE के एमिरेट्स क्रिकेट बोर्ड ने अपनी UAE T20 लीग शुरू करने की घोषणा की है।",
+    "id": 6,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "दुनियाभर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "बढ़ती ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "text": "T",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "20 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "text": "लीग ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "text": "क्रिकेट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "text": "लोकप्रियता ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 56,
+        "text": "बीच ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 60,
+        "text": "UAE ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 63,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 72,
+        "text": "एमिरेट्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 80,
+        "text": "क्रिकेट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 86,
+        "text": "बोर्ड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 94,
+        "text": "अपनी ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "text": "UAE ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 102,
+        "text": "T20 ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "text": "लीग ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 111,
+        "text": "शुरू ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 116,
+        "text": "करने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 119,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 125,
+        "text": "घोषणा ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "text": "की ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 130,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 130,
+        "end": 131,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2025-01-25T16:45:49.178005Z",
+    "updated_at": "2025-01-25T16:45:49.178005Z",
+    "lead_time": 229.357
+  },
+  {
+    "text": "शिवांगी ने वर्ष 2010 में DAV पब्लिक स्कूल से CBSE 10वीं की परीक्षा 10 CGPA के साथ पास की थी।",
+    "id": 7,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "शिवांगी ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "वर्ष ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "text": "2010 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "text": "DAV ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "text": "पब्लिक ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "text": "स्कूल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "text": "CBSE ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "text": "10वीं ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 59,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "text": "परीक्षा ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 70,
+        "text": "10 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 75,
+        "text": "CGPA ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 78,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 82,
+        "text": "साथ ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "text": "पास ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "की ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "text": "थी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2025-01-25T16:47:25.812014Z",
+    "updated_at": "2025-01-25T16:47:25.812014Z",
+    "lead_time": 95.2
+  },
+  {
+    "text": "IPL 2021 सीजन के शनिवार रात हुए 18वें मैच में राजस्थान रॉयल्स (RR) ने कोलकाता नाइट राइडर्स (KKR) को 6 विकेट से हरा दिया।",
+    "id": 8,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "IPL ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "text": "2021 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "text": "सीजन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "text": "शनिवार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "text": "रात ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "text": "हुए ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "text": "18वें ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "मैच ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 55,
+        "text": "राजस्थान ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 61,
+        "text": "रॉयल्स",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "RR",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 70,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 78,
+        "text": "कोलकाता ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 83,
+        "text": "नाइट ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 91,
+        "text": "राइडर्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 95,
+        "text": "KKR",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 100,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 102,
+        "text": "6 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 108,
+        "text": "विकेट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 111,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 115,
+        "text": "हरा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 119,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2025-01-25T16:51:47.436329Z",
+    "updated_at": "2025-01-25T16:51:47.436329Z",
+    "lead_time": 259.248
+  },
+  {
+    "text": "चेन्नई सुपर किंग्स (CSK) ने बुधवार रात को खेले गए मुकाबले में सनराइजर्स हैदराबाद (SRH) को 7 विकेट से हरा दिया।",
+    "id": 9,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "चेन्नई ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "text": "सुपर ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 19,
+        "text": "किंग्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "CSK",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "text": "बुधवार ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "text": "रात ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "text": "खेले ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "गए ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 57,
+        "text": "मुकाबले",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 62,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 72,
+        "text": "सनराइजर्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 81,
+        "text": "हैदराबाद ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 85,
+        "text": "SRH",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 87,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 90,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 92,
+        "text": "7 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 98,
+        "text": "विकेट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "text": "हरा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 109,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2025-01-25T16:53:41.294986Z",
+    "updated_at": "2025-01-25T16:54:04.977410Z",
+    "lead_time": 134.988
+  },
+  {
+    "text": "इसके अलावा, नेशनल पेमेंट्स कॉरपोरेशन ऑफ इंडिया (NCPI) के आंकड़ों के अनुसार, बैंकों द्वारा 31 दिसंबर, 2019 तक 59.15 करोड़ RuPay कार्ड जारी किए हैं।",
+    "id": 10,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "इसके ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "text": "अलावा",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "text": "नेशनल ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "text": "पेमेंट्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "text": "कॉरपोरेशन ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "ऑफ ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "text": "इंडिया ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "text": "NCPI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 48,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 54,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "text": "आंकड़ों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 74,
+        "text": "अनुसार",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 76,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 83,
+        "text": "बैंकों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 90,
+        "text": "द्वारा ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "31 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 99,
+        "text": "दिसंबर",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 101,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 106,
+        "text": "2019 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 115,
+        "text": "59.15 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 109,
+        "text": "तक ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 121,
+        "text": "करोड़ ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 127,
+        "text": "RuPay ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 132,
+        "text": "कार्ड",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 133,
+        "end": 138,
+        "text": "जारी ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 138,
+        "end": 142,
+        "text": "किए ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 145,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 145,
+        "end": 146,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2025-01-25T16:57:38.179793Z",
+    "updated_at": "2025-01-25T16:57:38.179793Z",
+    "lead_time": 210.506
+  },
+  {
+    "text": "रिलायंस इंडस्ट्रीज लिमिटेड (RIL) की 43वीं सालाना आम बैठक (AGM) में कई इलेक्ट्रॉनिक आइटम लॉन्च किए।",
+    "id": 11,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "रिलायंस ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 19,
+        "text": "इंडस्ट्रीज ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "text": "लिमिटेड ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "RIL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "text": "43वीं ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "text": "सालाना ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "text": "आम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "बैठक ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "AGM",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 67,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 70,
+        "text": "कई ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 83,
+        "text": "इलेक्ट्रॉनिक ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 88,
+        "text": "आइटम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "text": "लॉन्च ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "text": "किए",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2025-01-25T17:02:00.192548Z",
+    "updated_at": "2025-01-25T17:02:00.192548Z",
+    "lead_time": 260.234
+  },
+  {
+    "text": "GSM : जीएसएम (Global System for Mobile communication) यह डिजिटल मोबाइल टेलीफोन सिस्टम है, जो यूरोप और दुनिया के अन्य भागों में इस्तेमाल की जाती है।",
+    "id": 12,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "GSM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "text": ": ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "जीएसएम ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "text": "Global ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "text": "System ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "text": "for ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "text": "Mobile ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 52,
+        "text": "communication",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 54,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "यह ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "text": "डिजिटल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "text": "मोबाइल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 79,
+        "text": "टेलीफोन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 86,
+        "text": "सिस्टम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 88,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 90,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "जो ",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 99,
+        "text": "यूरोप ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 102,
+        "text": "और ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 108,
+        "text": "दुनिया",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 117,
+        "text": "अन्य ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 123,
+        "text": "भागों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 123,
+        "end": 127,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 136,
+        "text": "इस्तेमाल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 136,
+        "end": 139,
+        "text": "की ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 144,
+        "text": "जाती ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 144,
+        "end": 146,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 147,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2025-01-25T17:06:38.986895Z",
+    "updated_at": "2025-01-25T17:06:38.986895Z",
+    "lead_time": 200.076
+  },
+  {
+    "text": "KKR Vs RRविकेटकीपर- इस मैच के लिए बतौर विकेटकीपर संजू सैमसन और दिनेश कार्तिक पर दांव लगा सकते हैं।",
+    "id": 13,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "KKR ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "Vs ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "text": "RR",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 18,
+        "text": "विकेटकीपर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "- ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "इस ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "text": "मैच ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "text": "लिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "text": "बतौर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "text": "विकेटकीपर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "संजू",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "text": "सैमसन ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 63,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "text": "दिनेश ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 77,
+        "text": "कार्तिक ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 85,
+        "text": "दांव ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "text": "लगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 94,
+        "text": "सकते ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-01-25T17:09:38.237575Z",
+    "updated_at": "2025-01-25T17:09:38.237575Z",
+    "lead_time": 177.725
+  },
+  {
+    "text": "रॉयल चैलेंजर्स बेंगलुरु (RCB) ने IPL 2021 सीजन के छठे मैच में सनराइजर्स हैदराबाद को 6 रन से हरा दिया।",
+    "id": 14,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "रॉयल ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 15,
+        "text": "चैलेंजर्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "text": "बेंगलुरु ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "RCB",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "IPL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "text": "2021",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "सीजन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "text": "छठे ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "मैच ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 62,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 71,
+        "text": "सनराइजर्स",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 81,
+        "text": "हैदराबाद ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 86,
+        "text": "6 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "रन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 92,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 96,
+        "text": "हरा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-01-25T17:11:41.565461Z",
+    "updated_at": "2025-01-25T17:11:41.565461Z",
+    "lead_time": 121.624
+  },
+  {
+    "text": "चीनी कंपनी आईकू (iQOO) ने भारतीय बाजार में अपना पहला स्मार्टफोन iQOO 3 लॉन्च कर दिया है।",
+    "id": 15,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "चीनी ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "text": "कंपनी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "आईकू ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "text": "iQOO",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "text": "भारतीय ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "text": "बाजार ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "अपना ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "पहला ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "text": "स्मार्टफोन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 69,
+        "text": "iQOO ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "text": "3",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 77,
+        "text": "लॉन्च ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": "कर ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 85,
+        "text": "दिया ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 87,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2025-01-25T17:13:20.598961Z",
+    "updated_at": "2025-01-25T17:13:20.598961Z",
+    "lead_time": 97.162
+  },
+  {
+    "text": "विश्व स्वास्थ्य संगठन (WHO) के मुताबिक, H5N1 को 1997 में खोजा गया था।",
+    "id": 16,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "विश्व ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 16,
+        "text": "स्वास्थ्य ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "संगठन ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "text": "WHO",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "text": "मुताबिक",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "text": "H5N1 ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "1997 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "text": "खोजा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "text": "गया ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 68,
+        "text": "था",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 69,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-01-25T17:14:51.042394Z",
+    "updated_at": "2025-01-25T17:14:51.042394Z",
+    "lead_time": 88.42
+  },
+  {
+    "text": "IPL के 13वें सीजन के 54वें मैच में कोलकाता नाइट राइडर्स (KKR) ने राजस्थान रॉयल्स (RR) को 60 रन से हरा दिया।",
+    "id": 17,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "IPL ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "text": "13वें ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "सीजन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "54वें ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "मैच ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "text": "कोलकाता ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "नाइट ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "text": "राइडर्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "KKR",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 74,
+        "text": "राजस्थान ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 81,
+        "text": "रॉयल्स ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 84,
+        "text": "RR",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 86,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 92,
+        "text": "60 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 95,
+        "text": "रन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 102,
+        "text": "हरा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "text": "दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2025-01-25T17:17:17.088277Z",
+    "updated_at": "2025-01-25T17:17:17.088277Z",
+    "lead_time": 133.319
+  },
+  {
+    "text": "कोरोना से NSG के ग्रुप कमांडर का निधननेशनल सिक्योरिटी गार्ड (NSG) के ग्रुप कमांडर बीरेंद्र कुमार झा का कोरोना से निधन हो गया।",
+    "id": 18,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "कोरोना ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "text": "NSG ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "text": "ग्रुप ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "text": "कमांडर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "text": "सिक्योरिटी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "text": "गार्ड ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 64,
+        "text": "NSG",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 66,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 68,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 75,
+        "text": "ग्रुप ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 82,
+        "text": "कमांडर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 91,
+        "text": "बीरेंद्र ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 97,
+        "text": "कुमार ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 100,
+        "text": "झा ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 103,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "text": "कोरोना ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 113,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 118,
+        "text": "निधन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 121,
+        "text": "हो ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 124,
+        "text": "गया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "text": "निधननेशनल ",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2025-01-25T17:20:10.438923Z",
+    "updated_at": "2025-01-25T20:14:29.812375Z",
+    "lead_time": 258.585
+  },
+  {
+    "text": "IPL के तीनों सीजन में RCB की टीम का हिस्सापहली बार IPL-2020 में RCB ने उन्हें 20 लाख रुपए की कीमत पर खरीदा था।",
+    "id": 19,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "IPL ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "text": "तीनों ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "सीजन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "RCB ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "टीम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "text": "हिस्सा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "पहली",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "बार ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "text": "IPL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 60,
+        "text": "2020 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 68,
+        "text": "RCB ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 78,
+        "text": "उन्हें ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "text": "20 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "लाख ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 90,
+        "text": "रुपए ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 98,
+        "text": "कीमत ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 107,
+        "text": "खरीदा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 109,
+        "text": "था",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2025-01-25T17:22:37.282050Z",
+    "updated_at": "2025-01-25T17:22:37.282050Z",
+    "lead_time": 145.333
+  },
+  {
+    "text": "12 महीने में तीसरी बार IPL कराएगा BCCIमाना जा रहा कि इन दिनों BCCI और ECB के रिश्ते अच्छे हैं।",
+    "id": 20,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "12 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 9,
+        "text": "महीने ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "text": "तीसरी ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "text": "बार ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "text": "IPL ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "text": "कराएगा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "text": "BCCI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "माना ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "जा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 50,
+        "text": "रहा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "कि ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 56,
+        "text": "इन ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 62,
+        "text": "दिनों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 67,
+        "text": "BCCI ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 70,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 74,
+        "text": "ECB ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 77,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 84,
+        "text": "रिश्ते ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 90,
+        "text": "अच्छे ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2025-01-25T17:25:42.592172Z",
+    "updated_at": "2025-01-25T17:25:42.592172Z",
+    "lead_time": 184.198
+  }
+]
